@@ -1,0 +1,16 @@
+- internet là 1 mạng lưới các máy tính được kết nối với nhau. với phạm vi toàn cầu.
+- mỗi máy tính sẽ có 1 địa chỉ IP để định danh. và IP thường được các nhà mạng cung cấp cho bạn khi bạn đăng ký truy cập internet.
+- các máy tính dùng giao thức TCP/IP để giao tiếp với nhau.
+- HTTP được gọi là 1 giao thức tầng ứng dụng (tầng thứ 7 trong mô hình OSI), chịu trách nhiệm sử lý web traffic giữa 1 browser với 1 web server.
+- websites/webpages thực chất là các file được lưu trên các máy tính được goijlaf web server.
+- hosting company là công ty cung cấp chỗ chứa trên 1 server nào đó để bạn lưu website của bạn trên đó.
+- domain name là 1 cái tên đại điện cho web server của bạn thay vì dùng địa chỉ IP thì dùng domain name sẽ dễ nhớ hơn.
+- DNS dùng để map các địa chỉ IP với các Domain name.
+
+** luồng chạy của interner **
+1. user gửi Domain name (ww.google.com) đến web Browser.
+2. web Browser lấy Domain name đó gửi cho DNS server.
+3. DNS server sẽ gửi lại web Browser địa chỉ IP tương ứng với Domain name (192.168.1.4).
+4. web browser sẽ lấy địa chỉ IP đó gửi cho server.
+5. server sẽ gửi các file HTML, CSS, JS,... cho web Browser.
+6. web browser sẽ chạy các file đó cho user.
