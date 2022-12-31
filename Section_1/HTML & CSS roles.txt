@@ -1,0 +1,8 @@
+HTML là 1 ngôn ngữ siêu văn bản dùng để biểu diễn thông tin trên website.
+CSS là để làm đẹp cho HMTL.
+
+HTML = content display/structure
+CSS = Style/Design
+JavaScript = front end programming
+PHP, Python, C#, JS = back end programming
+MySQL, MongoDB = DataBase/storage
